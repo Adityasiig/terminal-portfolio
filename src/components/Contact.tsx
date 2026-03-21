@@ -61,6 +61,10 @@ export default function Contact() {
                 <span className="link-label">github</span>
                 <span className="link-value">@Adityasiig</span>
               </a>
+              <a href={profile.linkedin} target="_blank" rel="noopener noreferrer" className="contact-link-item">
+                <span className="link-label">linkedin</span>
+                <span className="link-value">singhaditya70</span>
+              </a>
             </div>
           </motion.div>
 
